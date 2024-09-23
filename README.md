@@ -1,5 +1,5 @@
 # DeMPT
 This is the implementation for paper DeMPT: Decoding-enhanced Multi-phase Prompt Tuning for Making LLMs Be Better Context-aware Translators. Unlike the concatenating strategy, this work splits the context-aware translation procedure into three phases:
-![image](intro-comp.pdf)
+![image](https://github.com/Rooders/DeMPT/blob/main/intro-comp.pdf)
 
 
